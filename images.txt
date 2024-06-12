@@ -1,3 +1,3 @@
 nginx
-golang:alpine
---platform=linux/arm64 linux/amd64
+golang:1.22.4-alpine
+--platform=linux/amd64 linux/arm64
