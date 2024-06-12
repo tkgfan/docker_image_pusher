@@ -1,4 +1,5 @@
 nginx 
---platform=linux/amd64 golang:1.22.4-alpine
---platform=linux/arm64 golang:1.22.4-alpine
-
+nginx:stable-alpine
+golang:alpine
+alpine:latest
+node:20.14-alpine
