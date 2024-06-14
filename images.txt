@@ -3,3 +3,12 @@ nginx:stable-alpine
 golang:alpine
 alpine:latest
 node:20.14-alpine
+fluentd
+mwader/postfix-relay:1.1.37
+postgres
+redis
+mongo
+elestio/zinc:latest
+jc21/nginx-proxy-manager:latest
+flant/ovpn-admin:openvpn-latest
+flant/ovpn-admin:latest
