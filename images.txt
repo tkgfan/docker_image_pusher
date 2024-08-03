@@ -3,6 +3,7 @@ nginx:stable-alpine
 golang:alpine
 alpine:latest
 node:20.14-alpine
+node:20.14
 fluentd
 mwader/postfix-relay:1.1.37
 postgres
