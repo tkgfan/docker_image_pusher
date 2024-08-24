@@ -1,1 +1,1 @@
-openobserve/openobserve:latest
+openobserve/openobserve
