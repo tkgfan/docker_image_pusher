@@ -1,1 +1,1 @@
-docker.io/jc21/nginx-proxy-manager:latest
+ghcr.io/jinnrry/pmail:latest
