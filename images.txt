@@ -1,1 +1,2 @@
 ghcr.io/jinnrry/pmail:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.16.0
